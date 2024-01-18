@@ -1,23 +1,15 @@
 {
   "name": "figma-tokens",
   "version": "1.0.0",
-  "description": "plugin design tokens figma",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "style-dictionary build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PedroLucasAraujo/figma-tokens.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PedroLucasAraujo/figma-tokens/issues"
-  },
-  "homepage": "https://github.com/PedroLucasAraujo/figma-tokens#readme",
   "dependencies": {
-    "style-dictionary": "^3.9.2"
+    "style-dictionary": "^3.7.2"
   }
 }
